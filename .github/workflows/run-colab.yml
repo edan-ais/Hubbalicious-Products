@@ -16,4 +16,4 @@ jobs:
       - name: Run Notebook
         uses: agyemanjp/run-colab-notebook@v1.2
         with:
-          notebook-path: "YOUR_NOTEBOOK.ipynb"
+          notebook-path: "Label_Updater_Bot.ipynb"
